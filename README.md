@@ -127,7 +127,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 | Order Details               |
 |-----------------------------|
 | - Order ID: 1234            |
-| - Customer: John Doe        |
+| - Customer: Kendall Wood        |
 | - Status: Shipped           |
 | - Shipment Tracking: [Link] |
 ----------------------------------------------------
