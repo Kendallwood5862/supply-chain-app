@@ -90,9 +90,6 @@ A web app for managing inventory and orders.
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
 ----------------------------------------------------
 | [Logo] [Home] [Inventory] [Orders] [Suppliers] [Reports] [Profile] [Logout] |
 ----------------------------------------------------
@@ -103,4 +100,72 @@ This project is licensed under the MIT License.
 | - Total Inventory Value    | - Recent Orders             | - Low Stock Alerts         |
 | - Active Orders            | - Recent Deliveries         | - Upcoming Deliveries      |
 | - Delivery Performance     | - Status Updates            |                           |
+----------------------------------------------------
+----------------------------------------------------
+| [Logo] [Home] [Inventory] [Orders] [Suppliers] [Reports] [Profile] [Logout] |
+----------------------------------------------------
+| [Sidebar: Inventory Management | Order Tracking | Supplier Management | Delivery Optimization] |
+----------------------------------------------------
+| Inventory List               | Alerts                  |
+|------------------------------|-------------------------|
+| - Item Name | SKU | Quantity | Price | [Edit] [Delete] | [Add New Item] |   |
+----------------------------------------------------
+| Low Stock Alerts             |
+|-------------------------------|
+| - Item A: 5 units remaining   |
+| - Item B: 2 units remaining   |
+----------------------------------------------------
+----------------------------------------------------
+| [Logo] [Home] [Inventory] [Orders] [Suppliers] [Reports] [Profile] [Logout] |
+----------------------------------------------------
+| [Sidebar: Inventory Management | Order Tracking | Supplier Management | Delivery Optimization] |
+----------------------------------------------------
+| Order List                  | Search / Filter        |
+|-----------------------------|------------------------|
+| - Order ID | Customer Name | Status | Shipment Tracking | [View Details] | [Search] |
+----------------------------------------------------
+| Order Details               |
+|-----------------------------|
+| - Order ID: 1234            |
+| - Customer: John Doe        |
+| - Status: Shipped           |
+| - Shipment Tracking: [Link] |
+----------------------------------------------------
+----------------------------------------------------
+| [Logo] [Home] [Inventory] [Orders] [Suppliers] [Reports] [Profile] [Logout] |
+----------------------------------------------------
+| [Sidebar: Inventory Management | Order Tracking | Supplier Management | Delivery Optimization] |
+----------------------------------------------------
+| Supplier List                 | Supplier Performance |
+|-------------------------------|---------------------|
+| - Supplier Name | Contact Info | Performance | [Edit] [Delete] | [Add New Supplier] |
+----------------------------------------------------
+| Performance Metrics           |
+|-------------------------------|
+| - Supplier A: On-time delivery 95% |
+| - Supplier B: On-time delivery 85% |
+----------------------------------------------------
+----------------------------------------------------
+| [Logo] [Home] [Inventory] [Orders] [Suppliers] [Reports] [Profile] [Logout] |
+----------------------------------------------------
+| [Sidebar: Inventory Management | Order Tracking | Supplier Management | Delivery Optimization] |
+----------------------------------------------------
+| Route Planning                | Optimization Results    |
+|-------------------------------|-------------------------|
+| - Input Delivery Locations    | - Optimized Route Map   |
+| - Set Constraints             | - Route List            |
+| [Generate Report]             |                         |
+----------------------------------------------------
+----------------------------------------------------
+| [Logo] [Home] [Inventory] [Orders] [Suppliers] [Reports] [Profile] [Logout] |
+----------------------------------------------------
+| [Sidebar: Inventory Management | Order Tracking | Supplier Management | Delivery Optimization] |
+----------------------------------------------------
+| Dashboard                     | Report Filters        |
+|-------------------------------|-----------------------|
+| - Inventory Levels Chart      | - Date Range: [Select] |
+| - Order Volumes Graph         | - Category: [Select]   |
+| - Delivery Performance        | [Generate Report]      |
+----------------------------------------------------
+| Export Options: [PDF] [CSV]   |
 ----------------------------------------------------
