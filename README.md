@@ -93,3 +93,14 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ## License
 
 This project is licensed under the MIT License.
+----------------------------------------------------
+| [Logo] [Home] [Inventory] [Orders] [Suppliers] [Reports] [Profile] [Logout] |
+----------------------------------------------------
+| [Sidebar: Inventory Management | Order Tracking | Supplier Management | Delivery Optimization] |
+----------------------------------------------------
+| Overview                   | Recent Activity            | Alerts                    |
+|----------------------------|-----------------------------|---------------------------|
+| - Total Inventory Value    | - Recent Orders             | - Low Stock Alerts         |
+| - Active Orders            | - Recent Deliveries         | - Upcoming Deliveries      |
+| - Delivery Performance     | - Status Updates            |                           |
+----------------------------------------------------
